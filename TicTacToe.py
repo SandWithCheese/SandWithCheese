@@ -76,7 +76,7 @@ if pick_side == "O":
 
         j = 0
         while j < 1:
-            bot_position = random.randint(0, 10)
+            bot_position = random.randint(1, 9)
             if bot_position == 1:
                 if (empty_list[0][0] is not pick_side) and (empty_list[0][0] is not bot_side):
                     empty_list[0][0] = bot_side
@@ -261,7 +261,7 @@ elif pick_side == "X":
 
         j = 0
         while j < 1:
-            bot_position = random.randint(0, 10)
+            bot_position = random.randint(1, 9)
             if bot_position == 1:
                 if (empty_list[0][0] is not pick_side) and (empty_list[0][0] is not bot_side):
                     empty_list[0][0] = bot_side
