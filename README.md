@@ -1,7 +1,7 @@
 # :sandwich: SandWithCheese
 **`Student/Software Engineer`**
 
-A curious learner with a keen interest in software engineering and data science. Developing skills in web development, data analysis, and data visualization. Seeking to gain more experience and knowledge to make a positive impact in these fields.
+I'm Naufal, a software engineer and CTF enthusiast. Committed to mastering both domains, I focus on developing secure software and conquering CTF challenges. Seeking to gain more experience and knowledge to make a positive impact in these fields. Ready to connect and collaborate with fellow enthusiasts.
 
 ---
 
