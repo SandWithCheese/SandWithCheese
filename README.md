@@ -1,6 +1,6 @@
 # Hey, I'm Naufal 👋
 
-<img align="right" src="./assets/waguri.gif" alt="Waguri" width="180" height="180" />
+<img align="right" src="./assets/waguri.gif" alt="Waguri" width="144" height="144" />
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%23007ACC?style=flat-square&logoColor=white&logo=github) ![CTF Enthusiast](https://img.shields.io/badge/CTF%20Enthusiast-%239FEF00?style=flat-square&logoColor=black&logo=hackthebox)  
 Jack of all trades who constantly learning new things.
