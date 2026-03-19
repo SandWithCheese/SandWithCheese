@@ -1,29 +1,22 @@
-# Ahmad Naufal Ramadan
+<img align="right" src="./assets/waguri.gif" alt="Waguri" width="180" height="180" />
+
+# Hey, I'm Naufal 👋
+
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%23007ACC?style=flat-square&logoColor=white&logo=github) ![CTF Enthusiast](https://img.shields.io/badge/CTF%20Enthusiast-%239FEF00?style=flat-square&logoColor=black&logo=hackthebox)  
+Jack of all trades who constantly learning new things.
+Curious about everything the world has to offer.
+
+<br />
+
+> _"Peace comes when you choose to meet the moment instead of bargaining for another one."_
+
+<br clear="right" />
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="8" frame="void" rules="none">
-  <tr>
-    <td>
-      I'm Naufal, a software engineer and CTF enthusiast. Committed to mastering both domains, I focus on developing secure software and conquering CTF challenges. Seeking to gain more experience and knowledge to make a positive impact in these fields. Ready to connect and collaborate with fellow enthusiasts.
-    </td>
-    <td width="200">
-      <img src="./assets/waguri.gif" alt="Waguri" width="200" height="200" />
-    </td>
-  </tr>
-</table>
+## My GitHub Stats
 
----
-
-## Stats
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4" frame="void" rules="none">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" height="175" src="https://github-readme-stats.vercel.app/api?username=SandWithCheese&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandWithCheese&theme=react&layout=compact&hide=HTML,Solidity,Tex,CSS,SCSS,Jupyter%20Notebook,JavaScript&include_all_commits=true&count_private=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SandWithCheese&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandWithCheese&theme=react&layout=compact&hide=HTML,Solidity,Tex,CSS,SCSS,Jupyter%20Notebook,JavaScript&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
