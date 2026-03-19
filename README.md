@@ -10,8 +10,6 @@ Curious about everything the world has to offer.
 
 > _"Peace comes when you choose to meet the moment<br>instead of bargaining for another one."_
 
-<br clear="right" />
-
 ## My GitHub Stats
 
 <p align="center">
