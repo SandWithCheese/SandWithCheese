@@ -1,18 +1,16 @@
-<img align="right" src="./assets/waguri.gif" alt="Waguri" width="180" height="180" />
-
 # Hey, I'm Naufal 👋
+
+<img align="right" src="./assets/waguri.gif" alt="Waguri" width="180" height="180" />
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%23007ACC?style=flat-square&logoColor=white&logo=github) ![CTF Enthusiast](https://img.shields.io/badge/CTF%20Enthusiast-%239FEF00?style=flat-square&logoColor=black&logo=hackthebox)  
 Jack of all trades who constantly learning new things.
+<br />
 Curious about everything the world has to offer.
-
 <br />
 
-> _"Peace comes when you choose to meet the moment instead of bargaining for another one."_
+> _"Peace comes when you choose to meet the moment<br>instead of bargaining for another one."_
 
 <br clear="right" />
-
----
 
 ## My GitHub Stats
 
