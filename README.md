@@ -1,24 +1,24 @@
-# :sandwich: SandWithCheese
-**`Student/Software Engineer`**
-
-I'm Naufal, a software engineer and CTF enthusiast. Committed to mastering both domains, I focus on developing secure software and conquering CTF challenges. Seeking to gain more experience and knowledge to make a positive impact in these fields. Ready to connect and collaborate with fellow enthusiasts.
+# Ahmad Naufal Ramadan
 
 ---
 
-### Languages and Tools
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
+  <p>
+      I'm Naufal, a software engineer and CTF enthusiast. Committed to mastering both domains, I focus on developing secure software and conquering CTF challenges. Seeking to gain more experience and knowledge to make a positive impact in these fields. Ready to connect and collaborate with fellow enthusiasts.
+  </p>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+  <img src="./assets/waguri.gif" alt="" width="200" height="200" />
+</div>
 
-#
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandWithCheese&theme=react&show_icons=true)
+## Stats
+
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
+    <div style="display: flex; flex-direction: row;">
+        <img height="140px" style="padding: 5px;"
+          src="https://github-readme-stats.vercel.app/api?username=SandWithCheese&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
+        <img height="140px" style="padding: 5px;"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandWithCheese&layout=compact&hide=HTML,Solidity,Tex,CSS,SCSS,Jupyter%20Notebook,JavaScript&include_all_commits=true&count_private=true" />
+    </div>
+</div>
